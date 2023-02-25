@@ -6,7 +6,7 @@ public class ContaTerminal {
         //Importando a classe Scanner
         Scanner sc = new Scanner(System.in);
         
-        //Declarando as váriaveis
+        //Declarando as variáveis
         int numeroConta=0;
         String agencia=null;
         String nomeCliente=null;
